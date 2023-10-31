@@ -16,6 +16,7 @@
     <div class="article-content">
       {{ .Content }}
     </div>
+    {{ partial "i18nlist.html" . }}
   </article>
 
   {{ partial "disqus.html" .}}
