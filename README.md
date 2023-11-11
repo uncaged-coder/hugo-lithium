@@ -1,3 +1,7 @@
+# Hugo Uncaged
+
+this is a simple fork of Hugo lithium theme, adapted to uncaged theme.
+
 # Hugo Lithium
 
 A simple responsive blog theme for [Hugo](https://gohugo.io/) forked from https://github.com/jrutheiser/hugo-lithium-theme with modifications to make it work better with [**blogdown**](https://github.com/rstudio/blogdown).
